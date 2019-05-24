@@ -1,0 +1,13 @@
+{
+  "id": "google",
+  "name": "GoogleBrowser",
+  "version": "0.0.1",
+  "description": "Google Browser for Franz",
+  "main": "index.js",
+  "author": "jmenke@nexient.com",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://google.com",
+    "hasNotificationSound": true
+  }
+}
